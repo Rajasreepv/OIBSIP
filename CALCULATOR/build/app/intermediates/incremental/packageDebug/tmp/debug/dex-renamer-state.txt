@@ -1,0 +1,4 @@
+#Mon Nov 20 11:30:43 IST 2023
+base.0=/Users/rjzre/Documents/projects/calculator/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
